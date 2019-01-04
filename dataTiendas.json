@@ -1,0 +1,271 @@
+[{
+        "Nombre": "PV014",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Hospital, 56,08001 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJJZjTpViipBIROyBBbY-JQkM",
+        "FORMATTED_ADDRESS": "Carrer de l'Hospital, 56, 08001 Barcelona, Spain",
+        "LATITUD": "41,3805201",
+        "LONGITUD": "2,1703194",
+        "latLng": "41.3805201,2.1703194"
+    },
+    {
+        "Nombre": "PV022",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Murtra, 135 - 145,08032 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjcxNDUsIENhcnJlciBkZSBsYSBNdXJ0cmEsIDEzNSwgMDgwMzIgQmFyY2Vsb25hLCBFc3BhbnlhIh8aHQoWChQKEgkJ4BmrsqKkEhGRpIGimLNW1hIDMTQ1",
+        "FORMATTED_ADDRESS": "Carrer de la Murtra, 135, 145, 08032 Barcelona, Spain",
+        "LATITUD": "41,4210574",
+        "LONGITUD": "2,1550354",
+        "latLng": "41.4210574,2.1550354"
+    },
+    {
+        "Nombre": "PV023",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Pl. Gl�ries Catalanes, 37 - 38,08018 BARCELONA,BARCELONA",
+        "PLACE_ID": "EkIzOCwgUGxhw6dhIGRlIGxlcyBHbMOycmllcyBDYXRhbGFuZXMsIDM3LCAwODAxOCBCYXJjZWxvbmEsIEVzcGFueWEiHhocChYKFAoSCbOnrLoho6QSEQ6HuSNNjTh_EgIzOA",
+        "FORMATTED_ADDRESS": "Pla�a de les Gl�ries Catalanes, 37, 38, 08018 Barcelona, Spain",
+        "LATITUD": "41,4024679",
+        "LONGITUD": "2,1873965",
+        "latLng": "41.4024679,2.1873965"
+    },
+    {
+        "Nombre": "PV026",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Sant Pere m�s baix, 7,08003 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJSVdUOvqipBIRbh-cDgTdG9c",
+        "FORMATTED_ADDRESS": "Carrer de Sant Pere M�s Baix, 7, 08003 Barcelona, Spain",
+        "LATITUD": "41,3864897",
+        "LONGITUD": "2,1761845",
+        "latLng": "41.3864897,2.1761845"
+    },
+    {
+        "Nombre": "PV027",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "La Rambla, 30 - 32,08002 BARCELONA,BARCELONA",
+        "PLACE_ID": "EiszMiwgTGEgUmFtYmxhLCAzMCwgMDgwMDIgQmFyY2Vsb25hLCBFc3BhbnlhIh4aHAoWChQKEgl1McehV6KkEhHurlNtBwT3URICMzI",
+        "FORMATTED_ADDRESS": "La Rambla, 30, 32, 08002 Barcelona, Spain",
+        "LATITUD": "41,3787213",
+        "LONGITUD": "2,1762613",
+        "latLng": "41.3787213,2.1762613"
+    },
+    {
+        "Nombre": "PV028",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Cam�lies, 76 - 80,08024 BARCELONA,BARCELONA",
+        "PLACE_ID": "Ejk4MCwgQ2FycmVyIGRlIGxlcyBDYW3DqGxpZXMsIDc2LCAwODAyNCBCYXJjZWxvbmEsIEVzcGFueWEiHhocChYKFAoSCQUmYMjJoqQSEXAyyL_bAWC0EgI4MA",
+        "FORMATTED_ADDRESS": "Carrer de les Cam�lies, 76, 80, 08024 Barcelona, Spain",
+        "LATITUD": "41,4143778",
+        "LONGITUD": "2,1652843",
+        "latLng": "41.4143778,2.1652843"
+    },
+    {
+        "Nombre": "PV029",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Pl. Lesseps, 20 - 22,08023 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjAyMiwgUGwuIGRlIExlc3NlcHMsIDIwLCAwODAyMyBCYXJjZWxvbmEsIEVzcGFueWEiHhocChYKFAoSCXdBQb2moqQSEU3Ye-MSdvI_EgIyMg",
+        "FORMATTED_ADDRESS": "Pl. de Lesseps, 20, 22, 08023 Barcelona, Spain",
+        "LATITUD": "41,40742",
+        "LONGITUD": "2,14926",
+        "latLng": "41.40742,2.14926"
+    },
+    {
+        "Nombre": "PV037",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Camp del Ferro, 1-3,08027 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjkzLCBDYXJyZXIgZGVsIENhbXAgZGVsIEZlcnJvLCAxLCAwODAyNyBCYXJjZWxvbmEsIEVzcGFueWEiHRobChYKFAoSCcVwaO3RvKQSEfILAC0RVsVQEgEz",
+        "FORMATTED_ADDRESS": "Carrer del Camp del Ferro, 1, 3, 08027 Barcelona, Spain",
+        "LATITUD": "41,425779",
+        "LONGITUD": "2,1938143",
+        "latLng": "41.425779,2.1938143"
+    },
+    {
+        "Nombre": "PV039",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Ra. Blanca, 1 - 3,08028 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjkzLCBDYXJyZXIgZGUgbGEgUmllcmEgQmxhbmNhLCAxLCAwODAyOCBCYXJjZWxvbmEsIEVzcGFueWEiHRobChYKFAoSCdtUzmr0mKQSESTOaF3YsV1EEgEz",
+        "FORMATTED_ADDRESS": "Carrer de la Riera Blanca, 1, 3, 08028 Barcelona, Spain",
+        "LATITUD": "41,3778285",
+        "LONGITUD": "2,1217124",
+        "latLng": "41.3778285,2.1217124"
+    },
+    {
+        "Nombre": "PV053",
+        "POBLACION": "SANT BOI DE LLOBREGAT",
+        "DIRECCION": "Baldiri Aleu, 6-8,08830 SANT BOI DE LLOBREGAT,BARCELONA",
+        "PLACE_ID": "Eko4LCBDYXJyZXIgQmFsZGlyaSBBbGV1LCA2LCAwODgzMCBTYW50IEJvaSBkZSBMbG9icmVnYXQsIEJhcmNlbG9uYSwgRXNwYW55YSIhGh8KGhIYChQKEglBK8d4d5ykEhFp_fxFqr6KXBAGEgE4",
+        "FORMATTED_ADDRESS": "Carrer Baldiri Aleu, 6, 8, 08830 Sant Boi de Llobregat, Barcelona, Spain",
+        "LATITUD": "41,3402806",
+        "LONGITUD": "2,037045",
+        "latLng": "41.3402806,2.037045"
+    },
+    {
+        "Nombre": "PV071",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Pg. Sant Joan, 26,08010 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJkwpfiOSipBIRpoBBU1O1wM8",
+        "FORMATTED_ADDRESS": "Passeig de Sant Joan, 26, 08010 Barcelona, Spain",
+        "LATITUD": "41,3930458",
+        "LONGITUD": "2,1786841",
+        "latLng": "41.3930458,2.1786841"
+    },
+    {
+        "Nombre": "PV072",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Comte de Santa Clara, 8 - 10,08003 BARCELONA,BARCELONA",
+        "PLACE_ID": "EkAxMCwgQ2FycmVyIGRlbCBDb210ZSBkZSBTYW50YSBDbGFyYSwgOCwgMDgwMDMgQmFyY2Vsb25hLCBFc3BhbnlhIh4aHAoWChQKEglzpwsiqqOkEhF5Gih_qJ8XHBICMTA",
+        "FORMATTED_ADDRESS": "Carrer del Comte de Santa Clara, 8, 10, 08003 Barcelona, Spain",
+        "LATITUD": "41,3792688",
+        "LONGITUD": "2,1888352",
+        "latLng": "41.3792688,2.1888352"
+    },
+    {
+        "Nombre": "PV073",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Ind�stria, 295,08041 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJ1SD_1tWipBIR6xr6Eau599E",
+        "FORMATTED_ADDRESS": "Carrer de la Ind�stria, 295, 08041 Barcelona, Spain",
+        "LATITUD": "41,4157096",
+        "LONGITUD": "2,1821111",
+        "latLng": "41.4157096,2.1821111"
+    },
+    {
+        "Nombre": "PV074",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "D�u i Mata, 57,08029 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJH1BdzmSYpBIRWFygj5Zye6I",
+        "FORMATTED_ADDRESS": "Carrer de D�u i Mata, 57, 08029 Barcelona, Spain",
+        "LATITUD": "41,3882298",
+        "LONGITUD": "2,134818",
+        "latLng": "41.3882298,2.134818"
+    },
+    {
+        "Nombre": "PV075",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Rda. Guineueta Vella, 34,08042 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJC1NMKWu9pBIR1KU_qV7Lqpc",
+        "FORMATTED_ADDRESS": "Ronda de la Guineueta Vella, 34, 08042 Barcelona, Spain",
+        "LATITUD": "41,4437832",
+        "LONGITUD": "2,1643166",
+        "latLng": "41.4437832,2.1643166"
+    },
+    {
+        "Nombre": "PV076",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Dr. Carulla, 22 - 24,08017 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjgyNCwgQ2FycmVyIGRlbCBEci4gQ2FydWxsYSwgMjIsIDA4MDE3IEJhcmNlbG9uYSwgRXNwYW55YSIeGhwKFgoUChIJ8ZzybmuYpBIRsmvl5a1fXXsSAjI0",
+        "FORMATTED_ADDRESS": "Carrer del Dr. Carulla, 22, 24, 08017 Barcelona, Spain",
+        "LATITUD": "41,3999091",
+        "LONGITUD": "2,1294573",
+        "latLng": "41.3999091,2.1294573"
+    },
+    {
+        "Nombre": "PV078",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Segre, 24 - 32,08030 BARCELONA,BARCELONA",
+        "PLACE_ID": "EjIzMiwgQ2FycmVyIGRlbCBTZWdyZSwgMjQsIDA4MDMwIEJhcmNlbG9uYSwgRXNwYW55YSIeGhwKFgoUChIJiatrd9u8pBIR0uztR4SRPjMSAjMy",
+        "FORMATTED_ADDRESS": "Carrer del Segre, 24, 32, 08030 Barcelona, Spain",
+        "LATITUD": "41,4343985",
+        "LONGITUD": "2,1911826",
+        "latLng": "41.4343985,2.1911826"
+    },
+    {
+        "Nombre": "PV079",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Vilamar�, 61,08015 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJcbLCYn6ipBIRz2nHwVj6F7I",
+        "FORMATTED_ADDRESS": "Carrer de Vilamar�, 61, 08015 Barcelona, Spain",
+        "LATITUD": "41,3786131",
+        "LONGITUD": "2,1491215",
+        "latLng": "41.3786131,2.1491215"
+    },
+    {
+        "Nombre": "PV083",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "�ngel Marqu�s, 4-6,08035 BARCELONA,BARCELONA",
+        "PLACE_ID": "Ejg2LCBDYXJyZXIgZCfDgG5nZWwgTWFycXXDqHMsIDQsIDA4MDM1IEJhcmNlbG9uYSwgRXNwYW55YSIdGhsKFgoUChIJFX0H8PyXpBIRwnMxDWPfe24SATY",
+        "FORMATTED_ADDRESS": "Carrer d'�ngel Marqu�s, 4, 6, 08035 Barcelona, Spain",
+        "LATITUD": "41,4294874",
+        "LONGITUD": "2,141955",
+        "latLng": "41.4294874,2.141955"
+    },
+    {
+        "Nombre": "PV085",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Joncar, 35,08005 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJGbXsDkCjpBIRFWd0rvwO_Bg",
+        "FORMATTED_ADDRESS": "Carrer del Joncar, 35, 08005 Barcelona, Spain",
+        "LATITUD": "41,401056",
+        "LONGITUD": "2,2043679",
+        "latLng": "41.401056,2.2043679"
+    },
+    {
+        "Nombre": "PV087",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Rbla. Prim, 87 - 89,08019 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJW7n-tk2jpBIR-qsTcKrNKhc",
+        "FORMATTED_ADDRESS": "Rambla de Prim, 87, 08019 Barcelona, Spain",
+        "LATITUD": "41,4164839",
+        "LONGITUD": "2,2118151",
+        "latLng": "41.4164839,2.2118151"
+    },
+    {
+        "Nombre": "PV090",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Selva de Mar, 215,08020 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJ7cAljTOjpBIRJms1nFQuE1k",
+        "FORMATTED_ADDRESS": "Carrer de la Selva de Mar, 215, 08020 Barcelona, Spain",
+        "LATITUD": "41,4166091",
+        "LONGITUD": "2,1985917",
+        "latLng": "41.4166091,2.1985917"
+    },
+    {
+        "Nombre": "PV091",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Ptge. Vapor Vell, S/N,08028 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJuTZipoiYpBIRTDaRsSrQx6g",
+        "FORMATTED_ADDRESS": "Passatge del Vapor Vell, 08028 Barcelona, Spain",
+        "LATITUD": "41,3767966",
+        "LONGITUD": "2,1349797",
+        "latLng": "41.3767966,2.1349797"
+    },
+    {
+        "Nombre": "PV092",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Torrent de l'Olla, 104,08012 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJ8Xabjr2ipBIRV5z3pSW4i4g",
+        "FORMATTED_ADDRESS": "Carrer del Torrent de l'Olla, 104, 08012 Barcelona, Spain",
+        "LATITUD": "41,4015831",
+        "LONGITUD": "2,1583587",
+        "latLng": "41.4015831,2.1583587"
+    },
+    {
+        "Nombre": "PV093",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Av. Bogatell, 17,08005 BARCELONA,BARCELONA",
+        "PLACE_ID": "ChIJHQH7ChGjpBIRA61k6Z_zsrE",
+        "FORMATTED_ADDRESS": "Av. del Bogatell, 17, 08005 Rub�, Barcelona, Spain",
+        "LATITUD": "41,3928812",
+        "LONGITUD": "2,197754",
+        "latLng": "41.3928812,2.197754"
+    },
+    {
+        "Nombre": "PV095",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Comte Borrell, 44-46,08015 BARCELONA,BARCELONA",
+        "PLACE_ID": "Ejo0NiwgQ2FycmVyIGRlbCBDb210ZSBCb3JyZWxsLCA0NCwgMDgwMTUgQmFyY2Vsb25hLCBFc3BhbnlhIh4aHAoWChQKEgkhITnmYKKkEhEtkRxMmEqMfhICNDY",
+        "FORMATTED_ADDRESS": "Carrer del Comte Borrell, 44, 46, 08015 Barcelona, Spain",
+        "LATITUD": "41,3773983",
+        "LONGITUD": "2,1627633",
+        "latLng": "41.3773983,2.1627633"
+    },
+    {
+        "Nombre": "PV099",
+        "POBLACION": "BARCELONA",
+        "DIRECCION": "Pg. Vall d'Hebron, 65 - 69,08035 BARCELONA,BARCELONA",
+        "PLACE_ID": "Ej02OSwgUGFzc2VpZyBkZSBsYSBWYWxsIGQnSGVicm9uLCA2NSwgMDgwMzUgQmFyY2Vsb25hLCBFc3BhbnlhIh4aHAoWChQKEglZnHoxApikEhGRUr2M7nu9NxICNjk",
+        "FORMATTED_ADDRESS": "Passeig de la Vall d'Hebron, 65, 69, 08035 Barcelona, Spain",
+        "LATITUD": "41,4192768",
+        "LONGITUD": "2,1393184",
+        "latLng": "41.4192768,2.1393184"
+    }
+]
